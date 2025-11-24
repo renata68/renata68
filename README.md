@@ -1,6 +1,6 @@
 <h3>Hi, I'm Renata 👋</h3>
 
-<p>A former medical laboratory professional now building digital products powered by analytical thinking, teamwork, and a strong product mindset.</p>
+<p>Former medical laboratory professional now building digital products with by analytical thinking, teamwork, and a strong product mindset.</p>
 
 <p>🎓 Completed Le Wagon’s intensive Web Development Bootcamp  
 <br>🤖 Graduated from the AI Product Build Specialization (Beta)  
