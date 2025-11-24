@@ -2,7 +2,7 @@
 
 <p>Former medical laboratory professional now building digital products with by analytical thinking and a strong product mindset.</p>
 <p>
-I love working on clear interfaces and tackling the technical logic behind them — from frontend interactions to backend flows — and I thrive in collaborative team environments.
+I love working on clear interfaces and tackling the technical logic behind them 👉 from frontend interactions to backend flows 👉 and I thrive in collaborative team environments.
 </p>
 <p>🎓 Completed Le Wagon’s intensive Web Development Bootcamp  
 <br>🤖 Graduated from the AI Product Build Specialization (Beta)  
