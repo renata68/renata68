@@ -1,7 +1,7 @@
 Hi, I'm Renata 👋
-Junior full-stack web developer with experience in frontend, backend, databases, and modern no-code/automation tools.  
+<p>Junior full-stack web developer with experience in frontend, backend, databases, and modern no-code/automation tools.  
 Graduate of Le Wagon’s intensive Web Development Bootcamp and the AI Product Build Specialization (Beta).  
-I enjoy building real products in team environments and exploring how AI can enhance user experience and workflow automation.
+I enjoy building real products in team environments and exploring how AI can enhance user experience and workflow automation.</p>
 ## 🧠 Tech Stack
 ### *Frontend*
 - HTML, CSS, JavaScript  
