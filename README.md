@@ -3,9 +3,9 @@
 <p>A former medical laboratory professional now building digital products through fast learning, teamwork, and a strong product mindset.</p>
 
 <p>🎓 Completed Le Wagon’s intensive Web Development Bootcamp  
-🤖 Graduated from the AI Product Build Specialization (Beta)  
-💜 Passionate about turning ideas into simple, user-focused applications  
-🚀 Currently expanding my skills through team projects and modern tools</p>
+<br>🤖 Graduated from the AI Product Build Specialization (Beta)  
+<br>💜 Passionate about turning ideas into simple, user-focused applications  
+<br>🚀 Currently expanding my skills through team projects and modern tools</p>
 <h3>💻 Tech Stack</h3>
 
 <p><strong>Frontend:</strong> HTML, CSS, JavaScript, React (learning)</p>
