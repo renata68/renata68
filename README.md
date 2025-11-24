@@ -1,28 +1,18 @@
-Hi, I'm Renata 👋
+<h3>Hi, I'm Renata 👋</h3>
 <p>Junior full-stack web developer with experience in frontend, backend, databases, and modern no-code/automation tools.  
 Graduate of Le Wagon’s intensive Web Development Bootcamp and the AI Product Build Specialization (Beta).  
 I enjoy building real products in team environments and exploring how AI can enhance user experience and workflow automation.</p>
-## 🧠 Tech Stack
-### *Frontend*
-- HTML, CSS, JavaScript  
-- React (learning)
-### *Backend*
-- Ruby on Rails  
-### *Database*
-- PostgreSQL  
-- SQL  
-- Supabase  
-### *Tools*
-- Git, GitHub  
-- VS Code  
-- SQL tools  
-- Figma  
-### *No-Code / Automation*
-- N8N  
-- Airtable  
-- Lovable  
-- V0  
-- Vercel  
+<h4>💻 Tech Stack</h4>
+
+<p><strong>Frontend:</strong> HTML, CSS, JavaScript, React (learning)</p>
+
+<p><strong>Backend:</strong> Ruby on Rails</p>
+
+<p><strong>Database:</strong> PostgreSQL, SQL, Supabase</p>
+
+<p><strong>Tools:</strong> Git, GitHub, VS Code, SQL tools, Sigma</p>
+
+<p><strong>No-Code / Automation:</strong> N8N, Airtable, Lovable, V0, Vercel</p>
 ## 🎓 Education & Training
 ### *Le Wagon — Web Development Bootcamp*
 - Full-stack program focused on product development, teamwork, and agile workflows
