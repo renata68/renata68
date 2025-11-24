@@ -23,10 +23,10 @@ I enjoy building real products in team environments and exploring how AI can enh
 <h3>🛠 Projects</h3>
 <p>🍷 <strong>Wine Experience</strong> — 1-week team project (4 members), LLM-powered wine recommendation flow built during the AI specialization.</p>
 
-<p>👻 <strong>Daily Questing</strong> — 2-week full-stack team project (4 members), gamified daily tasks app created during Le Wagon.</p>
+<p>👻 <strong>Daily Questing</strong> — 2-week team project (4 members), gamified daily tasks app and focus on motivation and consistency, created during Le Wagon.</p>
 
-<p>✨ <strong>Questify</strong> — ongoing team project (4 members), AI-assisted task manager focused on productivity and clean UX.</p>
-Thanks for stopping by! ✨
+<p>✨ <strong>Questify</strong> — ongoing team project (5 members), details coming soon.</p>
+✨ Thanks for stopping by! ✨
 
 <!--
 **renata68/renata68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
