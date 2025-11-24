@@ -10,7 +10,7 @@ I enjoy building real products in team environments and exploring how AI can enh
 
 <p><strong>Database:</strong> PostgreSQL, SQL, Supabase</p>
 
-<p><strong>Tools:</strong> Git, GitHub, VS Code, SQL tools, Sigma</p>
+<p><strong>Tools:</strong> Git, GitHub, VS Code, Figma</p>
 
 <p><strong>No-Code / Automation:</strong> N8N, Airtable, Lovable, V0, Vercel</p>
 ## 🎓 Education & Training
@@ -20,14 +20,12 @@ I enjoy building real products in team environments and exploring how AI can enh
 - First beta cohort  
 - LLM-powered app development  
 - Rapid prototyping and AI product design
-## 🛠 Projects
-*🍇 Vine Experience*  
-1-week team project (4 members)  
-LLM-focused experience flow designed during the AI specialization.
-*🔁 Daily Questing*  
-2-week team project (4 members)  
-Full-stack web application built during Le Wagon; focused on daily task gamification.
-*More projects coming soon…*
+<h3>🛠 Projects</h3>
+<p>🍷 <strong>Wine Experience</strong> — 1-week team project (4 members), LLM-powered wine recommendation flow built during the AI specialization.</p>
+
+<p>👻 <strong>Daily Questing</strong> — 2-week full-stack team project (4 members), gamified daily tasks app created during Le Wagon.</p>
+
+<p>✨ <strong>Questify</strong> — ongoing team project (4 members), AI-assisted task manager focused on productivity and clean UX.</p>
 Thanks for stopping by! ✨
 
 <!--
