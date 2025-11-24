@@ -1,4 +1,4 @@
-# Hi, I'm Renata 👋
+Hi, I'm Renata 👋
 Junior full-stack web developer with experience in frontend, backend, databases, and modern no-code/automation tools.  
 Graduate of Le Wagon’s intensive Web Development Bootcamp and the AI Product Build Specialization (Beta).  
 I enjoy building real products in team environments and exploring how AI can enhance user experience and workflow automation.
@@ -31,10 +31,10 @@ I enjoy building real products in team environments and exploring how AI can enh
 - LLM-powered app development  
 - Rapid prototyping and AI product design
 ## 🛠 Projects
-### *🍇 Vine Experience*  
+*🍇 Vine Experience*  
 1-week team project (4 members)  
 LLM-focused experience flow designed during the AI specialization.
-### *🔁 Daily Questing*  
+*🔁 Daily Questing*  
 2-week team project (4 members)  
 Full-stack web application built during Le Wagon; focused on daily task gamification.
 *More projects coming soon…*
