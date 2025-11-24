@@ -13,20 +13,16 @@ I enjoy building real products in team environments and exploring how AI can enh
 <p><strong>Tools:</strong> Git, GitHub, VS Code, Figma</p>
 
 <p><strong>No-Code / Automation:</strong> N8N, Airtable, Lovable, V0, Vercel</p>
-## 🎓 Education & Training
-### *Le Wagon — Web Development Bootcamp*
-- Full-stack program focused on product development, teamwork, and agile workflows
-### *AI Product Build Specialization (Beta)*
-- First beta cohort  
-- LLM-powered app development  
-- Rapid prototyping and AI product design
+
 <h3>🛠 Projects</h3>
+
 <p>🍷 <strong>Wine Experience</strong> — 1-week team project (4 members), LLM-powered wine recommendation flow built during the AI specialization.</p>
 
 <p>👻 <strong>Daily Questing</strong> — 2-week team project (4 members), gamified daily tasks app and focus on motivation and consistency, created during Le Wagon.</p>
 
 <p>✨ <strong>Questify</strong> — ongoing team project (5 members), details coming soon.</p>
-✨ Thanks for stopping by! ✨
+
+<p>✨ Thanks for stopping by! ✨</p>
 
 <!--
 **renata68/renata68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
