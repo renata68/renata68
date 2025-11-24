@@ -1,8 +1,12 @@
 <h3>Hi, I'm Renata 👋</h3>
-<p>Junior full-stack web developer with experience in frontend, backend, databases, and modern no-code/automation tools.  
-Graduate of Le Wagon’s intensive Web Development Bootcamp and the AI Product Build Specialization (Beta).  
-I enjoy building real products in team environments and exploring how AI can enhance user experience and workflow automation.</p>
-<h4>💻 Tech Stack</h4>
+
+<p>A former medical laboratory professional now building digital products through fast learning, teamwork, and a strong product mindset.</p>
+
+<p>🎓 Completed Le Wagon’s intensive Web Development Bootcamp  
+🤖 Graduated from the AI Product Build Specialization (Beta)  
+💜 Passionate about turning ideas into simple, user-focused applications  
+🚀 Currently expanding my skills through team projects and modern tools</p>
+<h3>💻 Tech Stack</h3>
 
 <p><strong>Frontend:</strong> HTML, CSS, JavaScript, React (learning)</p>
 
@@ -12,7 +16,7 @@ I enjoy building real products in team environments and exploring how AI can enh
 
 <p><strong>Tools:</strong> Git, GitHub, VS Code, Figma</p>
 
-<p><strong>No-Code / Automation:</strong> N8N, Airtable, Lovable, V0, Vercel</p>
+<p><strong>No-Code / Automation:</strong> N8N, Airtable, Softer, Lovable, V0, Vercel</p>
 
 <h3>🛠 Projects</h3>
 
